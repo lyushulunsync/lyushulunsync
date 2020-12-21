@@ -24,4 +24,6 @@ Hi, 我是[吕淑伦](#), 一名全栈工程师. 主要做[前端开发工作](#
 
 ## 联系我
 
-欢迎 <a href="mailto:lyushulun@foxmail.com">发邮件和我交流</a>, 或者加我微信: <strong>lyu-shulun-fun</strong>
+- 邮箱: **lyushulun@foxmail.com**
+- 微信: **lyu-shulun-fun**
+- QQ: **459907071**
