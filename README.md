@@ -1,16 +1,25 @@
-### Hi there 👋
+# 吕淑伦 lyu shulun 👋
 
-<!--
-**lyushulunsync/lyushulunsync** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, 我是[吕淑伦](#), 一名全栈工程师. 主要做[前端开发工作](#).  
 
-Here are some ideas to get you started:
+## 我的工作
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 主要擅长:  
+- JavaScript (Vue.js, React.js, Angular.js)
+- Python
+- Ruby
+- Shell
+😄 主要参与的项目:  
+- [aa]()
+- [bb]()
+- [cc]()
+- [dd]()
+🤔 最近在关注的项目:  
+- [aa]()
+- [bb]()
+- [cc]()
+- [dd]()
+
+## 联系我
+
+欢迎 <a href="mailto:lyushulun@foxmail.com">发邮件和我交流</a>, 或者加我微信: <strong>lyu-shulun-fun</strong>
