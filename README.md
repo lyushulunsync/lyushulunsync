@@ -8,12 +8,12 @@ Hi, 我是[吕淑伦](#), 一名全栈工程师. 主要做[前端开发工作](#
 - JavaScript (Vue.js, React.js, Angular.js)
 - Python
 - Ruby
-- Shell
+- Shell  
 😄 主要参与的项目:  
 - [aa]()
 - [bb]()
 - [cc]()
-- [dd]()
+- [dd]()  
 🤔 最近在关注的项目:  
 - [aa]()
 - [bb]()
