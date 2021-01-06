@@ -1,31 +1,23 @@
-# 吕淑伦 lyu shulun 👋
+# 吕淑伦 @lyushulunsync 👋
 
-> [@lyushulun](https://github.com/lyushulun) 也是我的账户, 但是因为丢失了 2-factor-auth 和 recovery code 无法登陆了 (被自己蠢哭了😭)
+Hi, I'm shulun lyu who is a web full-stack developer.
 
-Hi, 我是[吕淑伦](#), 一名全栈工程师. 主要做[前端开发工作](#).
+😄 work in:
+- [aa]()
+- [bb]()
+- [cc]()
+- [dd]()
 
-## 我的工作
+🤔 be interested in:
+- [aa]()
+- [bb]()
+- [cc]()
+- [dd]()
 
-🌱 主要擅长:  
+🌱 skill-sets:
 - JavaScript (Vue.js, React.js, Angular.js)
 - Python
 - Ruby
 - Shell
 
-😄 主要参与的项目:  
-- [aa]()
-- [bb]()
-- [cc]()
-- [dd]()
-
-🤔 最近在关注的项目:  
-- [aa]()
-- [bb]()
-- [cc]()
-- [dd]()
-
-## 联系我
-
-- 邮箱: **lyushulun@foxmail.com**
-- 微信: **lyu-shulun-fun**
-- QQ: **459907071**
+PS: [@lyushulun](https://github.com/lyushulun) is also my account.
